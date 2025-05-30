@@ -51,7 +51,7 @@
           </div>
         </div>
         
-        <h2 class="section-title text-center bg-gradient-to-r from-primary to-secondary text-transparent bg-clip-text text-2xl font-medium mb-8">Habilidades</h2>
+        <h2 class="section-title bg-gradient-to-r from-primary to-secondary text-transparent bg-clip-text text-2xl font-medium mb-4">Habilidades</h2>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8 mb-12">
           <div class="card p-5 border-2 border-slate-300 rounded-lg">
             <h3 class="text-xl font-bold text-primary mb-4">Linguagens</h3>
