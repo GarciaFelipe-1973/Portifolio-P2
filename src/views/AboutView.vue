@@ -20,7 +20,7 @@
         
         <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mb-12">
           <div>
-            <h2 class="section-title text-center bg-gradient-to-r from-primary to-secondary text-transparent bg-clip-text text-2xl font-medium">Experiência Profissional</h2>
+            <h2 class="section-title bg-gradient-to-r from-primary to-secondary text-transparent bg-clip-text text-2xl font-medium mb-4">Experiência Profissional</h2>
             <div class="timeline-item p-5 border-2 border-slate-300 rounded-lg">
               <h3 class="text-xl font-bold text-primary">Desenvolvedor Full Stack Jr</h3>
               <h4 class="text-lg font-medium text-gray-700 mb-2">Spotbizz Tecnology</h4>
@@ -37,7 +37,7 @@
           </div>
           
           <div>
-            <h2 class="section-title text-center bg-gradient-to-r from-primary to-secondary text-transparent bg-clip-text text-2xl font-medium">Formação Acadêmica</h2>
+            <h2 class="section-title bg-gradient-to-r from-primary to-secondary text-transparent bg-clip-text text-2xl font-medium mb-4">Formação Acadêmica</h2>
             <div class="timeline-item p-5 border-2 border-slate-300 rounded-lg mb-6">
               <h3 class="text-xl font-bold text-primary">Ensino Técnico Integrado ao Médio (Informática)</h3>
               <h4 class="text-lg font-medium text-gray-700 mb-2">ETEC - Antonio Devisate</h4>
@@ -138,7 +138,7 @@
           </div>
         </div>
         
-        <h2 class="section-title text-center bg-gradient-to-r from-primary to-secondary text-transparent bg-clip-text text-2xl font-medium mb-8">Projetos</h2>
+        <h2 class="section-title bg-gradient-to-r from-primary to-secondary text-transparent bg-clip-text text-2xl font-medium mb-4">Projetos</h2>
         <div class="grid grid-cols-1 gap-8">
           <div class="card mb-8">
             <h3 class="text-xl font-bold text-primary mb-2">BFS - Basic Financial System</h3>
